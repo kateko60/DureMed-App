@@ -1,1 +1,1 @@
-Initial change -- doctor activity deisigned
+Initial change -- doctor activity designed
